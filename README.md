@@ -1,0 +1,1 @@
+  The project aims at generating bulk records containing shipment data that could be used to design and analyse logistical operations. The code is self expalanatory and uses few packages as listed in the requirments.txt file which needs to be installed.
